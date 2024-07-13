@@ -6,12 +6,10 @@ extra_css:
     - "css/extra_css"
     - stylesheets/extra.css
 
-# nav:
-#     - Home: index.md
-#     - Courses:
-#           - Home: courses/index.md
-#           - Mastering The System Design Interview: courses/Mastering The System Design Interview/index.md
-#           # - The Second Course: courses/The Second Course/index.md
+nav:
+    - Home: index.md
+    - Blog:
+          - blog/index.md
 
 theme:
     palette:
