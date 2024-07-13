@@ -1,14 +1,3 @@
----
-draft: true
-date: 2024-07-13 00:01:00
-authors:
-    - me
-categories:
-    - Test
-    - ":flag_gb:"
-slug: test
----
-
 # **This is a test post**
 
     Lorem ipsum dolor sit amet, consectetur
