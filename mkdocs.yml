@@ -119,7 +119,8 @@ extra_javascript:
 plugins:
     - glightbox
     - search
-    - blog
+    - blog:
+          archive: false
     - tags:
           tags_file: tags.md
     - rss:
