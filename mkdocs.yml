@@ -129,8 +129,8 @@ plugins:
           categories:
               - categories
               - tags
-    - git-revision-date-localized:
-          enable_creation_date: true
+    # - git-revision-date-localized:
+    #       enable_creation_date: true
 
 watch:
     - includes
