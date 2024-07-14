@@ -11,8 +11,8 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v4
-              # with:
-                  # fetch-depth: 0  # Fetch the full git history
+              with:
+                  fetch-depth: 0  # Fetch the full git history
             - name: Configure Git Credentials
               run: |
                   git config user.name github-actions[bot]
