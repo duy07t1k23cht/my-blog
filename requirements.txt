@@ -29,7 +29,7 @@
 mkdocs-glightbox
 mkdocs-material
 # mkdocs-material-extensions
-# mkdocs-rss-plugin
+mkdocs-rss-plugin
 # mkdocs-with-pdf==0.9.3
 # msgpack==1.0.8
 # packaging==24.1
