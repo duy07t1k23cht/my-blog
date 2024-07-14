@@ -5,7 +5,6 @@ authors:
     - me
 categories:
     - Test
-    - ":flag_gb:"
 slug: test-first
 ---
 
