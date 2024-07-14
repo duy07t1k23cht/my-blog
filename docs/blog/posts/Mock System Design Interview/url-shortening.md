@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 date: 2024-07-12 15:26:00
 authors:
     - me
